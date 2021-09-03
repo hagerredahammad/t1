@@ -1,0 +1,83 @@
+body{
+    height: 5000px;
+}
+/* start header section  */
+.header{
+    text-align: center;
+    background-image:url(../img/glass.jpg),url(../img/Path\ 62.png);
+    background-size: cover;
+    height: 700px;
+    background-color: rgb(109, 207, 109);
+}
+
+.text-header{
+    margin-top: 7%;
+    font-family: cursive;
+    color: white;
+    font-size: 20px;
+}
+.navbar-light{
+    border-radius: 10%;
+    margin-right: 277px;
+    font-size: 22px;
+    margin-left: 266px;
+}
+.image-fluid{
+    margin-top: 114px;
+}
+.icon1{
+    margin-right: 10px;
+    /* padding: 10px; */
+    
+}
+.icon2{
+    margin-right: 10px;
+    /* padding: 10px; */
+    
+}
+.icon3{
+    margin-right: 10px;
+    /* padding: 10px; */
+    
+}
+.icon4{
+    
+    
+}
+/* end header section  */
+/* start about section  */
+.text-clinic{
+    text-align: center;
+    font-family: cursive;
+}
+/* end about section  */
+/* start system section  */
+.system{
+    background-color: rgb(57, 164, 206);
+    height: 600px;
+}
+.card1{
+    height: 500px;
+    padding: 10px;
+    background-color: white;
+}
+.card2{
+    height: 500px;
+    padding: 10px;
+    background-color: white;
+}
+.card3{
+    height: 500px;
+    padding: 10px;
+    background-color: white;
+}
+
+/* end footer section  */
+/* start links section  */
+.text-lg-start{
+    background-color: rgb(4 100 38 / 74%)!important;
+    color: white !important;
+}
+
+
+/* end links section  */
